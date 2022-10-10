@@ -1,0 +1,17 @@
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\bin\Debug\net6.0\rabbitmqClient.exe
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\bin\Debug\net6.0\rabbitmqClient.deps.json
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\bin\Debug\net6.0\rabbitmqClient.runtimeconfig.json
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\bin\Debug\net6.0\rabbitmqClient.dll
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\bin\Debug\net6.0\rabbitmqClient.pdb
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.csproj.AssemblyReference.cache
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.AssemblyInfoInputs.cache
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.AssemblyInfo.cs
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.csproj.CoreCompileInputs.cache
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.csproj.CopyComplete
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.dll
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\refint\rabbitmqClient.dll
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.pdb
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\rabbitmqClient.genruntimeconfig.cache
+F:\Soinsoft\app-steps\step32\src\rabbitmqClient\obj\Debug\net6.0\ref\rabbitmqClient.dll
