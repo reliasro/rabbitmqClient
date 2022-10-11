@@ -11,13 +11,16 @@ namespace rabbitmqClient
     public class Client
     {
         public void Start(){
+            var mq_hostname = Environment.GetEnvironmentVariable("MQ_HOSTNAME");
+            if (mq_hostname == null) mq_hostname = "";
+
             //Create factory 1
             ConnectionFactory fact = new ConnectionFactory();
-            fact.HostName="rtfqyvyt";
-            fact.VirtualHost="rtfqyvyt";
-            fact.Uri=new Uri("amqps://rtfqyvyt:Xv_HTzNblQqofHgEsbtx2M3lA2ttWodY@codfish.rmq.cloudamqp.com/rtfqyvyt");
-            fact.UserName="rtfqyvyt";
-            fact.Password="Xv_HTzNblQqofHgEsbtx2M3lA2ttWodY";
+            fact.HostName= Environment.GetEnvironmentVariable("MQ_HOSTNAME");
+            fact.VirtualHost= Environment.GetEnvironmentVariable("MQ_VIRTUALHOST"); ;
+            fact.Uri=new Uri(mq_hostname);
+            fact.UserName= Environment.GetEnvironmentVariable("MQ_USERNAME"); ;
+            fact.Password= Environment.GetEnvironmentVariable("MQ_PASSWORD"); ;
 
             //Create connection 2
             IConnection cnn= fact.CreateConnection();
